@@ -2,7 +2,7 @@
 <h2 align="center">A Atempt Computer Sciencist from Venezuela</h2>
 
 ### 👀 I’m interested in create little **programs** and test games _**(RenPy Visuals Novels)**_
-- 🔭 I’m currently working on my own FVN [CianovaVN](https://github.com/plagaplusdev/cianova-vn)
+- 🔭 I’m currently working on my own FVN [CianovaVN](https://github.com/plagaplusdev/cianova-fvn)
 
 - 🌱 I’m currently learning <ins>**Python & RenPy**</ins>
 - ⚡ Fun fact: **I like Lemon 🍋**
