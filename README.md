@@ -17,4 +17,4 @@
 <h2 align="center">My trophy's</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plagaplusdev&theme=monokai&no-frame=true&margin-w=5" alt="PlaGaDev" /></a> </p>
 
-<h3 align="right">Profile Idea credit: <a href="https://github.com/betoidck">KaneDev</a></h3>
+<h3 align="right">Profile Idea credit: <a href="https://github.com/betoidk">KaneDev</a></h3>
