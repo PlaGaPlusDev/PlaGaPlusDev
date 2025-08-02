@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Yeison J.
-- 👀 I’m interested in create little programs and test games
+- 👋 Hi, I’m PlaGaDev. YJ
+- 👀 I’m interested in create little programs and test games (RenPy Visuals Novels)
 - 🌱 I’m currently learning Python & RenPy
 - 💞️ I’m looking to collaborate on Translations and test code.
 - 😄 Pronouns: He/PlaGa
-- ⚡ Fun fact: I like Bread
+- ⚡ Fun fact: I like Lemon 🍋
 
 <!---
 PlaGaPlusDev/PlaGaPlusDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
