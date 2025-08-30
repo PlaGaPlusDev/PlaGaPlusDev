@@ -28,8 +28,8 @@
   <a href="https://gimp.org"><img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white" alt="GIMP" /></a>
   <a href="https://ibispaint.com"><img src="https://img.shields.io/badge/IbisPaint-X?style=flat&logo=ibispaint&logoColor=white" alt="IbisPaint" /></a>
   <a href="https://mozilla.org/firefox"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="Firefox" /></a>
+  <a href="https://librewolf.net/"><img src="https://img.shields.io/badge/Librewolf-3776BB?style=flat&logo=librewolf&logoColor=white" alt="Librewolf" /></a>
   <a href="https://notepad-plus-plus.org"><img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=white" alt="Notepad++" /></a>
-  <a href="https://movavi.com/video-editor-plus"><img src="https://img.shields.io/badge/Movavi-1F1F1F?style=flat&logo=movavi&logoColor=white" alt="Movavi Video Editor" /></a>
   <a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" /></a>
   <a href="https://obsproject.com"><img src="https://img.shields.io/badge/OBS-302E31?style=flat&logo=obsstudio&logoColor=white" alt="OBS" /></a>
   <a href="https://virtualbox.org"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="Virtual Box" /></a>
